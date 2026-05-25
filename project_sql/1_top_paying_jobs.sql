@@ -6,7 +6,7 @@
  - Why? Highlight the top-paying opportunities for Data Analysts, offering insights into employment.
  */ 
 
- SELECT 
+SELECT 
     job_id, 
     job_title,  
     job_location,   
